@@ -1,0 +1,27 @@
+{
+  "name": "team-profile-generator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "directories": {
+    "lib": "lib",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/raquelacevedo/Team-Profile-Generator.git"
+  },
+  "author": "Raquel Acevedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/raquelacevedo/Team-Profile-Generator/issues"
+  },
+  "homepage": "https://github.com/raquelacevedo/Team-Profile-Generator#readme",
+  "dependencies": {
+    "fs": "0.0.1-security",
+    "inquirer": "^7.0.4"
+  }
+}
