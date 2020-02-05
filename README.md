@@ -14,11 +14,7 @@ This application will prompt the user to build an engineering team. An engineeri
 * Users can add information about team manager and team members. 
 * Users can input any number of team members, and they may be a mix of engineers and interns. 
 * Users can view all inputed information in an HTML file that displays a team roster based on the information provided by the user. 
-* Users can update there posts hrough our update feature. 
-* Users can delete there posts when they have new ideas that they want to acheive. 
-* Users can add images to there posts.
-* Users can costumize there post to the fullest. 
- 
+
 
 
 ## Setup/Installation Requirements
